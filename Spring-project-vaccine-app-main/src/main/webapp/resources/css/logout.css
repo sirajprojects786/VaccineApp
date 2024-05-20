@@ -1,0 +1,45 @@
+*{
+	background-color: rgb(232, 149, 234);
+	margin:0;
+	padding:0;
+}
+.body .div1 .header{
+	position:fixed;
+	background-color:mediumturquoise;
+	width:100%;
+	top: 0;
+	height:8%;
+	
+}
+.body .div2 .footer{
+	position: fixed;
+  bottom: 0;
+  width: 100%;
+  background-color:mediumturquoise;
+  height:8%;
+ 	
+}
+.body .div3{
+	margin-top:60px;
+	text-align: center;
+}
+a:link,a:visited{
+	background-color: white;
+	text-decoration: none;
+	border:2px solid blue;
+	padding:5px 10px;
+	border-radius: 50px;
+	color:black;
+	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+	
+}
+a:hover, a:active {
+  background-color: blue;
+  color:white;	
+  }
+  
+.login{
+	background-color: transparent;
+	margin-left:1150px;
+	margin-top:13px;
+}
